@@ -1,0 +1,38 @@
+h1 {
+    color : #2c8db9
+}
+h2 {
+    color : #2f3b49
+}h3 {
+    color : #a84ca4
+}
+div.box {
+    width: 300px;
+    height: 200px;
+    background-color : #3d6f9e;
+    border: 2px solid #2c8db9;
+    align-items: center;
+    text-align: center;
+    padding-top: 150px;
+}
+.box-model-explanation {
+    width: 300px;
+    height: 200px;
+    background-color : #f0f0f0;
+    border: 2px solid #2c8db9;
+    padding: 20px;
+    margin: 10px auto;
+}
+nav {
+    background-color: #963636;
+    padding: 10px;
+    text-align: center;
+}
+
+li {
+    color: #37393a;
+    font-size: 18px;
+    display: inline;
+    margin: 0 15px;
+
+}
